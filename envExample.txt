@@ -1,0 +1,9 @@
+
+Deployer_Primary_key={privateKey}
+
+Provider=wss://rinkeby.infura.io/ws/v3/{projectKey}
+
+Etherscan_Key=
+
+Staking_Address=0x8E6B190c393924EFaADB7C326f1Ef097C837531c
+Amount=10000000000000000000000
